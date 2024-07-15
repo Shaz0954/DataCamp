@@ -17,7 +17,7 @@ There are no formal prerequisites for this course. However, familiarity with the
 - **Exercise:** Classify data samples as structured, semi-structured, or unstructured.
 
 ### Lesson 1.2: Options for Data Storage
-- **Learning Objective:** Learner will be able to describe common formats for data files and types of databasesand understand relational vs. non-relational databases.
+- **Learning Objective:** Learner will be able to describe common formats for data files and types of databases and understand relational vs. non-relational databases.
 - **Exercise:** Identify appropriate data storage options for different scenarios.
 
 ### Lesson 1.3: Common Data Workloads
